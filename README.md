@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **Next, React, Tailwind, Javascript, SEO, Growth Hacking**
+- 💬 Ask me about **Next, React, Chakra UI, Tailwind, Javascript, SEO, Growth Hacking**
 
 - 📫 How to reach me **florian.delobelle[at]gmail.com**
 
