@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Florian D.</h1>
-<h3 align="center">A front-end developer from France (React - Next - Typescript) who love SEO (8 years of experience in marketing)</h3>
+<h3 align="center">A Javascript front-end developer from France (React - Next - Typescript) who love SEO (8 years of experience in the marketing industry)</h3>
 
 - 🌱 I’m currently learning **Typescript**
 
