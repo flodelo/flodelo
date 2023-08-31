@@ -2,7 +2,7 @@
 <h2 align="center">A Javascript front-end developer from France (React - Next - Typescript) who love SEO (8 years of experience in the marketing industry)</h2>
 <h3 align="center">I enjoy playing with node, firebase, supabase, mongodb as well</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently focusing on improving my skills on **Typescript**
 
 - 💬 Ask me about **Next, React, Chakra UI, Tailwind, Javascript, SEO, Growth Hacking**
 
